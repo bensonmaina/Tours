@@ -51,8 +51,8 @@
                     </div>
                     <div class="col-md-6">
                         <div class="text-md-right footer-links d-none d-sm-block">
-                            <a href="https://www.bookingcore.org" target="_blank">About Us</a>
-                            <a href="https://m.me/bookingcore" target="_blank">Contact Us</a>
+                            <a href="https://www.the2023tours.co.ke" target="_blank">About Us</a>
+                            <a href="https://m.me/the2023tours.co.ke" target="_blank">Contact Us</a>
                         </div>
                     </div>
                 </div>
