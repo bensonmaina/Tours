@@ -1,0 +1,25 @@
+{
+    "name": "The2023Tours/space",
+    "description": "",
+    "authors": [
+        {
+            "name": "The2023Tours",
+            "email": "The2023Tours.org@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Plugins\\Space\\Providers\\SpaceServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Plugins\\Space\\": ""
+        }
+    }
+}
