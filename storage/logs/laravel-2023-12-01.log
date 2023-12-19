@@ -172,3 +172,5 @@
 #80 C:\\Users\\thema\\Downloads\\Booking-System-Online-Laravel-Source-Code\\booking\\server.php(21): require_once('C:\\\\Users\\\\thema\\\\...')
 #81 {main}
 "} 
+[2023-12-01 10:33:53] production.WARNING: sendNewBookingEmails: Process could not be started [The system cannot find the path specified.
+]  

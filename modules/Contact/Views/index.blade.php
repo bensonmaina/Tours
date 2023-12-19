@@ -45,12 +45,12 @@
 						<div class="info-bg">
 							<img src="https://tomap.travelerwp.com/wp-content/uploads/2018/12/bg-contact-1.jpg" class="img-responsive" alt="Background Contact Info">    </div>
 						<div class="info-content">
-							<h3>{{ __('Traveler Ltd') }}</h3>
+							<h3>{{ __('The 2023 Tours and Travel') }}</h3>
 							<div class="sub">
 								<p></p>
-								<p>{{ __('Tell. + 00 222 444 33') }}</p>
-								<p>{{ __('Email. hello@yoursite.com') }}</p>
-								<p class="address">{{ __('1355 Market St, Suite 900San, Francisco, CA 94103 United States') }} </p>
+								<p>{{ __('Tell. + 254 726 334 352') }}</p>
+								<p>{{ __('Email. info@the2023toursandtravel.com') }}</p>
+								<!-- <p class="address">{{ __('Ma1355 Market St, Suite 900San, Francisco, CA 94103 United States') }} </p> -->
 							</div>
 						</div>
 					</div>
